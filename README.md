@@ -4,7 +4,7 @@ Uma aplicação simples em HTML, CSS e JavaScript que permite buscar informaçõ
 
 ## 🚀 Acesse o projeto online
 
-🔗 [Clique aqui para testar](https://darwingaz.github.io/shopping-list/)
+🔗 [Clique aqui para testar](https://darwingaz.github.io/pokedex/)
 
 > Digite o nome ou número de um Pokémon e veja a imagem, ID da Pokédex e ouça o som dele!
 
