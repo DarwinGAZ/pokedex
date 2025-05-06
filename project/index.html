@@ -1,20 +1,39 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="source/style.css">
+    <title>Find your Pokemon</title>
+    <link rel="stylesheet" href="source/style.css" />
+    <link rel="icon" href="source/images/logo.png" type="img/png">
 </head>
 
 <body>
+    <h1>Pokemon</h1>
 
-    <input type="text">
-    <div>
+    <form class="busca">
+        <input type="search" id="searchInput" placeholder="Digite o nome ou numero" />
+        <button>Buscar</button>
+    </form>
 
-    </div>
-    <script src="source/javascript/script.js"></script>
+    <div class="resultado">
+        <div class="titulo">--</div>
+
+        <div class="info">
+            <div class="pokemon">
+                <div class="pokemonInfo">--</div>
+                <img src=" " />
+                <audio src=" "></audio>
+            </div>
+        </div>
+
+        <div class="aviso">
+
+        </div>
+
+        <script src="source/javascript/script.js"></script>
 </body>
 
 </html>
