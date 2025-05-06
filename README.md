@@ -4,7 +4,7 @@ Uma aplicação simples em HTML, CSS e JavaScript que permite buscar informaçõ
 
 ## 📸 Demonstração
 
-![preview](source/images/logo.png)
+![preview](https://darwingaz.github.io/pokedex/)
 
 > Digite o nome ou número de um Pokémon e veja a imagem, ID da Pokédex e ouça o som dele!
 
@@ -22,5 +22,4 @@ Uma aplicação simples em HTML, CSS e JavaScript que permite buscar informaçõ
 - JavaScript (ES6)
 - [PokéAPI](https://pokeapi.co/)
 
-## 📁 Estrutura de Pastas
 
